@@ -41,13 +41,13 @@ img, picture, svg, video {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 1.75rem;
     margin-bottom: 1em;
 }
 
 #number-container {
     width: 100px;
-    font-size: 58px;
+    font-size: 3.625rem;
     border: 2px #b295ff solid;
     border-radius: 5px;
     margin: 0 auto;
